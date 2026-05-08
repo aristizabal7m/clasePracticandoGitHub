@@ -8,7 +8,7 @@ Repositorio de clases prácticas sobre desarrollo de software con LLMs.
 2. **Docker para Postgres y PgAdmin** — contenerización de la base de datos, configuración de PgAdmin
 3. **Intro a Testing** — primeros pasos con testing en Python, pytest, estructura de tests
 4. **E2E Testing** — pruebas end-to-end con Playwright, automatización del navegador
-
+HOLA
 ---
 
 ## Requisitos para correr el proyecto
